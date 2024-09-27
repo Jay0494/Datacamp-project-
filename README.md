@@ -1,4 +1,4 @@
-### Portfolio Project: **Sales Growth Analysis and Strategic Recommendations for Just In Time Inc. (2015-2016)**
+### Project: **Sales Growth Analysis and Strategic Recommendations for Just In Time Inc. (2015-2016)**
 
 #### **Introduction**
 This project presents a detailed analysis of the sales growth, geographical market performance, and product profitability for **Just In Time Inc.**, a multinational company specializing in sports apparel and equipment, during the fiscal years 2015 and 2016. By examining the sales data, the project identifies key drivers of growth and areas for operational improvement. The objective is to provide strategic recommendations that can help the company sustain its rapid growth trajectory, optimize operational efficiency, and expand into underperforming markets.
@@ -24,7 +24,8 @@ In this analysis, I focused on the company’s performance over a critical two-y
    - **Latin America** (Central and South America) emerges as a key region for order volumes, contributing the highest percentage of total orders, with **LATAM** representing **29.65%** of the total quantity ordered.
    - **USA** leads in country-level performance with **36.30%** of order volume, followed by **Brazil** and **Mexico**. 
    - Conversely, regions like **Southeast Asia**, **US Center**, and **Africa** contribute the lowest order volumes, highlighting potential areas of untapped growth.
-![Screenshot_20240927-091510_Power BI](https://github.com/user-attachments/assets/24d2902e-d90b-4dec-866a-2748d87d634d)
+![Screenshot_20240927-095318_Power BI](https://github.com/user-attachments/assets/eeeaa6f5-e9c0-4fb7-8ff7-e52b45ad8bce)
+
 
 2. **Strong Growth in Key Metrics:**
    - The company is showing strong performance across key financial metrics:
@@ -32,7 +33,7 @@ In this analysis, I focused on the company’s performance over a critical two-y
      - **Profit margins are high**, with a **67% profit margin**, demonstrating effective cost control and operational efficiency.
 
 3. **Revenue and Seasonality:**
-   - Revenue trends reveal **seasonality**, with significant peaks in **March**, **July**, and **December**, and dips in **April** and **September**. This indicates cyclical demand patterns, potentially driven by seasonal promotions or events.
+   - Revenue trends reveal **seasonality**, with significant peaks in **March**, **June**, and **December**, and dips in **April** and **September**. This indicates cyclical demand patterns, potentially driven by seasonal promotions or events.
    - **2016** outperforms **2015**, further supporting the company’s strong annual growth trajectory.
 ![Screenshot_20240927-091530_Power BI](https://github.com/user-attachments/assets/28b10da8-c71f-40ca-9e36-19c5e1b2fb32)
 
@@ -51,7 +52,7 @@ In this analysis, I focused on the company’s performance over a critical two-y
    - Explore partnerships, local promotions, or region-specific products to tap into these underserved markets.
 
 2. **Capitalize on Peak Seasons:**
-   - Focus on increasing inventory and marketing spend around key revenue-generating months like **March**, **July**, and **December**. Tailor promotional strategies to maximize revenue during these peak seasons.
+   - Focus on increasing inventory and marketing spend around key revenue-generating months like **March**, **June**, and **December**. Tailor promotional strategies to maximize revenue during these peak seasons.
    - Plan for the **April** and **September** dips by introducing mid-season sales or special offers to maintain revenue momentum during slower periods.
 
 3. **Leverage High-Profit Products and Categories:**
