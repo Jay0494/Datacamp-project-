@@ -11,68 +11,74 @@ In this analysis, I focused on the company’s performance over a critical two-y
 - **Product Category Profitability**: Insights into the most profitable product lines and recommendations to capitalize on these high-growth categories.
 - **Operational Gaps**: Addressing critical operational issues such as missing shipping data, which could affect logistics and customer satisfaction.
   
-This project not only highlights the company's strong performance during 2015-2016 but also offers actionable recommendations to ensure long-term success and mitigate potential risks in the future.
+
 
 #### **Key Skills Demonstrated**:
 - **Data Analysis and Visualization**: Analysis of key growth metrics (quantity, revenue, and profit) and visualization of geographical and product-level insights.
 - **Strategic Thinking**: Identifying growth opportunities and risks, along with proposing strategies for operational scalability and market expansion.
 - **Operational Improvement**: Recommendations to resolve data inconsistencies, improve inventory management, and optimize supply chain processes.
-- **Forecasting**: Utilizing historical data to predict future performance and guide decision-making for subsequent fiscal periods.
+### **Overall Insights:**
+![Screenshot_20240927-091520_Power BI (1)](https://github.com/user-attachments/assets/e51ef5b3-71b9-4194-b40c-dcec334c1be4)
 
-This project showcases my ability to extract actionable insights from large datasets and provide strategic solutions tailored to an organization’s unique challenges and growth opportunities.
-### Insights for 2015-2016
+1. **Regional and Market Performance:**
+   - **Latin America** (Central and South America) emerges as a key region for order volumes, contributing the highest percentage of total orders, with **LATAM** representing **29.65%** of the total quantity ordered.
+   - **USA** leads in country-level performance with **36.30%** of order volume, followed by **Brazil** and **Mexico**. 
+   - Conversely, regions like **Southeast Asia**, **US Center**, and **Africa** contribute the lowest order volumes, highlighting potential areas of untapped growth.
+![Screenshot_20240927-091510_Power BI](https://github.com/user-attachments/assets/24d2902e-d90b-4dec-866a-2748d87d634d)
 
-1. **Sales Data Coverage**: The dataset covers **2015 and 2016**, with the records for 2017 being incomplete due to the sales data ending in **October 2017**.
+2. **Strong Growth in Key Metrics:**
+   - The company is showing strong performance across key financial metrics:
+     - **Annual quantity growth** has exceeded **100%**, while **monthly growth** is consistently positive across quantity, revenue, and profit.
+     - **Profit margins are high**, with a **67% profit margin**, demonstrating effective cost control and operational efficiency.
+
+3. **Revenue and Seasonality:**
+   - Revenue trends reveal **seasonality**, with significant peaks in **March**, **July**, and **December**, and dips in **April** and **September**. This indicates cyclical demand patterns, potentially driven by seasonal promotions or events.
+   - **2016** outperforms **2015**, further supporting the company’s strong annual growth trajectory.
+![Screenshot_20240927-091530_Power BI](https://github.com/user-attachments/assets/28b10da8-c71f-40ca-9e36-19c5e1b2fb32)
+
+4. **Product Performance:**
+   - Certain fitness products, like **Perfect Fitness Rip Deck** and **Nike Men’s Free 5.0+ Running Shoe**, are highly profitable, even with moderate sales volumes.
+   - Product categories such as **Cleats** and **Cardio Equipment** dominate in terms of profitability, while **Water Sports** and **Camping & Hiking** lag behind.
+   - **Fan Shop** and **Apparel** are the most lucrative departments, generating the highest revenue and profit. **Fitness** and **Outdoors** struggle with lower contributions.
+
+5. **Sales and Profit Correlation:**
+   - The correlation analysis between order quantity and sales reveals a **strong positive linear relationship (0.84)**, indicating that increased order quantities reliably translate to higher sales and, consequently, profits.
+
+### **Recommendations:**
+
+1. **Expand in Low-Performing Regions and Markets:**
+   - Consider targeted marketing efforts or new product launches in underperforming regions like **Southeast Asia**, **US Center**, and **Africa**, which present opportunities for growth.
+   - Explore partnerships, local promotions, or region-specific products to tap into these underserved markets.
+
+2. **Capitalize on Peak Seasons:**
+   - Focus on increasing inventory and marketing spend around key revenue-generating months like **March**, **July**, and **December**. Tailor promotional strategies to maximize revenue during these peak seasons.
+   - Plan for the **April** and **September** dips by introducing mid-season sales or special offers to maintain revenue momentum during slower periods.
+
+3. **Leverage High-Profit Products and Categories:**
+   - Continue prioritizing top-performing products, such as the **Perfect Rip Deck** and **Nike footwear**, which show high profitability relative to sales volume.
+   - Invest in expanding the **Cleats** and **Cardio Equipment** categories, which generate significant profits, by introducing more product variations or bundling promotions.
+
+4. **Boost Underperforming Departments:**
+   - Evaluate the **Fitness** and **Outdoors** departments to identify the reasons for their weaker performance. Consider reducing inventory or rebranding efforts, or launching new, more attractive products in these departments.
+   - Alternatively, consider reallocating resources to stronger-performing departments like **Fan Shop** and **Apparel**, which are driving the bulk of profits and revenue.
+
+5. **Improve Profitability in High-Revenue Departments:**
+   - In departments with high revenue but lower profit margins (e.g., **Footwear**), investigate cost-reduction opportunities or price adjustments to boost profitability while maintaining sales volume.
+
+### **Next Steps:**
+
+1. **Region-Specific Marketing Campaigns:**
+   - Develop and implement marketing strategies tailored to underperforming regions, focusing on their unique consumer preferences. This could include localized advertisements, region-specific products, or partnerships with local distributors.
    
-2. **Growth Summary (2015-2016)**:
-   - **Annual Quantity Growth**: 105.04%
-   - **Annual Revenue Growth**: 104.17%
-   - **Annual Profit Growth**: 104.30%
-   - The growth figures reflect a doubling in key metrics from 2015 to 2016, highlighting a strong upward trajectory during this period.
+2. **Seasonal Promotions:**
+   - Plan for **seasonal marketing campaigns** around peak months, leveraging historical data to forecast demand and optimize inventory management.
+   - Implement strategies to address the seasonal dips, such as launching limited-time offers or clearance sales in **April** and **September**.
 
-3. **Geographical Market Insights**:
-   - **Top Markets by Quantity Ordered**: North America (36.30%) leads, with **Brazil** (15.71%) and **Mexico** (14.21%) also contributing significantly.
-   - **Regional Contributions**: The top-performing regions are **Central and South America** and **Western Europe**, making these key areas for future focus.
+3. **Product Category Optimization:**
+   - Review the performance of low-profit product categories and departments to determine whether adjustments can be made to improve their profitability or whether resources should be redirected to higher-performing areas.
+   - Consider expanding successful product lines or categories (e.g., **Cleats**, **Cardio Equipment**, **Apparel**) with additional SKUs, styles, or marketing efforts.
 
-4. **Product Categories**:
-   - The most profitable product categories were **Cleats** (21.10%), **Cardio Equipment** (16.99%), and **Women's Apparel** (14.50%).
-   - These categories have consistently driven revenue and profits.
+4. **Financial and Operational Review:**
+   - Conduct a **cost analysis** to further optimize **COGS** and improve profit margins, especially in high-revenue but lower-margin departments.
+   - Ensure that the company maintains its current **growth momentum** by continuing to monitor and optimize key performance metrics monthly and annually.
 
-5. **Data Inconsistencies**: It was noted that **shipping dates** were not properly recorded, which could cause significant operational and customer service challenges, especially in tracking deliveries and managing inventory.
-
----
-
-### Recommendations Based on 2015-2016 Data
-
-1. **Address Data Inconsistencies (Shipping Dates)**:
-   - Implement strict protocols for accurately recording **shipping dates**. Missing data can disrupt tracking shipments, forecasting demand, and handling returns. Consider introducing automated systems that record shipping milestones in real time to eliminate human error.
-   - In the interim, work with logistics teams to correct and backfill the missing shipping data from 2017, if possible.
-
-2. **Focus on Operational Scalability**:
-   - Given the 105% growth in quantity ordered and over 100% growth in revenue and profit, the operational capacity needs to be scaled. This could involve:
-     - Expanding **warehousing capacity** to handle increased inventory.
-     - Optimizing **supply chain processes** to ensure timely deliveries and reduce shipping errors.
-     - Revising inventory management systems to better match the **growing demand**.
-
-3. **Maximize Profit from High-Performing Categories**:
-   - With Cleats, Cardio Equipment, and Women's Apparel leading in profitability, it's crucial to focus on these categories in 2017:
-     - Expand inventory in these categories.
-     - Run targeted marketing campaigns to build on the strong customer base in **North America** and **Latin America**.
-   
-4. **Diversify Markets and Mitigate Regional Risk**:
-   - While **North America** dominates, growth opportunities exist in underperforming regions such as **Africa** (7.03%) and **Southeast Asia**. A more aggressive regional expansion strategy in these areas may open up new revenue streams.
-   - Tailor product offerings to suit regional tastes and preferences to gain traction in markets where penetration is low.
-
-5. **Close Out 2017 Data**:
-   - Despite missing sales records after **October 2017**, it is crucial to finish out the year by estimating performance based on the trends from earlier months. This can help you build forecasts and prepare strategies for 2018.
-   - Use statistical techniques like **extrapolation** to predict how the year would have closed if data was complete, giving stakeholders a sense of total growth for 2017.
-
----
-
-### Additional Considerations
-
-1. **Inventory Management**: With missing shipment data and substantial growth, there’s a risk of mismanaging inventory levels. Implement systems to forecast demand better and balance stock levels, ensuring you have enough for high-demand products but avoiding overstocking.
-
-2. **Forecast for Future Growth**: Analyze the trends between 2015 and 2016 to create **conservative forecasts** for 2018. Consider variables such as seasonal demand, product performance, and regional growth.
-
-By addressing the data inconsistencies, focusing on scalable operations, and leveraging high-growth areas, **Just In Time** can continue its upward trajectory despite the incomplete 2017 records.
